@@ -1,0 +1,9 @@
+For my Business Data and Text Mining assignment, I built a Python scraper using requests, BeautifulSoup and pandas.
+
+I used the Books to Scrape practice website to collect book titles, prices, ratings and stock information across five pages. I then cleaned the data, compared prices and ratings, and wrote a small program to find the highest possible total star score within a £100 budget.
+
+One thing I learned was that collecting data is only the first step — checking and organizing it makes the analysis much easier.
+
+GitHub project: [ADD YOUR GITHUB REPOSITORY LINK]
+
+#Python #WebScraping #DataAnalysis #BeautifulSoup
